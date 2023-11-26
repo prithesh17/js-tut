@@ -19,3 +19,5 @@ console.log(str_2.substring(0,10));
 
 console.log(str_2);
 console.table([name,USN,collegeName,str,str_2]);
+
+console.log(str.includes('MITE'));
